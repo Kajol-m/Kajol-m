@@ -2,7 +2,7 @@ Hi, I'm Kajol 👋
 Passionate about turning ideas into impactful software!
 Skilled in full-stack development  and building smart solutions with React and Node.js.
 
-Check out my portfolio here: [portfolio-kajol.vercel.app](https://portfolio-kajol.vercel.app/)
+Check out my portfolio here: [https://kajolmurmu.com/](https://kajolmurmu.com)
 
 💻 Find my work:[ https://github.com/kajol-m](https://github.com/Kajol-m)
 
